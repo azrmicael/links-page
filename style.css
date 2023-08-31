@@ -93,6 +93,11 @@ ul li a {
     transition: background 400ms;
 }
 
+.fa-brands,
+.fa-solid {
+    padding-right: .4em;
+}
+
 /* alterar a cor quando passar o mouse */
 ul li a:hover {
     background: var(--primary-color-hover);
